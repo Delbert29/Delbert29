@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT Support 
 - 🌱 I’m currently learning web programming
 - 📫 How to reach me: delbertemmanuel@gmail.com
-- ⚡ Fun fact: I can play all type of instrument except wind instruments😄 
+- ⚡ Fun fact: I can play all type of musical instrument except woodwind instruments😄 
 
 <!---
 Delbert29/Delbert29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
