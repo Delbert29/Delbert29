@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Delbert29
-- 👀 I’m interested in IT Support 
+- 👀 I’m interested in working as IT Support 
 - 🌱 I’m currently learning web programming
 - 📫 How to reach me: delbertemmanuel@gmail.com
 - ⚡ Fun fact: I can play all type of musical instrument except woodwind instruments😄 
